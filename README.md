@@ -1,8 +1,8 @@
-#  Farhan Shah
+# 🏄‍♂️ Farhan Shah
 
-**`Full-Stack Developer`**
+**`Digital Craftsman`**
 
-I'm a full-stack developer from Pakistan 🇵🇰 building complete websites, small AI-powered chatbots, and automation tools — and using AI to work confidently across any language or stack.
+I'm a full-stack developer from Pakistan  building complete websites, small AI-powered chatbots, and automation tools and using AI to work confidently across any language or stack.
 
    <p align="left">
       <a href="https://github.com/farhancreations?tab=followers">
@@ -39,7 +39,7 @@ I'm a full-stack developer from Pakistan 🇵🇰 building complete websites, sm
 
 ### 🤖 What I Build
 
-- **Full-stack websites** — frontend, backend, and database, end to end
+- **Full-stack websites**  frontend, backend, and database, end to end
 - **Feature additions & fixes** for existing websites and codebases
 - **Small AI-powered chatbots** for practical, everyday use cases
 - **Automation tools** using browser extensions and scripting to handle repetitive tasks
