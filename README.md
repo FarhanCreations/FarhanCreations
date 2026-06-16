@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Farhan Shah 👋</h1>
+# Farhan Shah
 <h3 align="center">Full-Stack Developer | AI Chatbot Builder | Automation Enthusiast — from Pakistan 🇵🇰</h3>
 
 <p align="center">
